@@ -62,7 +62,6 @@ Regulation of the output price after feed optimization. Adding cost-effective ra
 Optimization of compound feeds and concentrates. Communication with customers, giving recommendations on which food or concentrate is right for them. 
 Calculation and compilation of the need for raw materials for the next month. Editing, writing reports Microsoft Excel, Microsoft Word.
 
-
 ### Additionally
 
 * Site maintenance on CMS WordPress [Feed Recipe](https://fdrecipe.com/uk/) (filling the site, administration)
@@ -73,6 +72,3 @@ what are the ways of earning, what offer can be offered, how to make the client 
 At the meetings there were representatives of feed mills. We discussed problems in production in Ukraine, attended the exhibition of new technologies, 
 took a lecture course on mycotaxtines.
 * In 2021 attended a course of lectures and passed the certification of ISO 22000 and HACCP.
-
-
-
