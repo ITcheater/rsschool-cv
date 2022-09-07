@@ -2,6 +2,8 @@
 
 **Yurii Overchuk**
 
+<img src="https://user-images.githubusercontent.com/41678499/188898190-29f49e89-3df7-47d1-b475-f46e9869c7fd.JPG" width="300" height="248">
+
 **Contacts:**
 * Discord (server rs school): Yurii Overchuk(@itcheater)
 * Telegram: <https://t.me/over_y>
