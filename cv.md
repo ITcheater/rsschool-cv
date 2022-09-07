@@ -65,7 +65,7 @@ Calculation and compilation of the need for raw materials for the next month. Ed
 ### Additionally
 
 * Site maintenance on CMS WordPress [Feed Recipe](https://fdrecipe.com/uk/) (filling the site, administration)
-* Took a marketing course from blogger [Lily Nilova](https://www.instagram.com/lily.aspen/ popmarketing). The course showed how you can interest the client, 
+* Took a marketing course from blogger [Lily Nilova](https://www.instagram.com/lily.aspen/popmarketing). The course showed how you can interest the client, 
 what are the ways of earning, what offer can be offered, how to make the client your buyer.
 * Completed SMM course from [Wishdo Agency](https://www.instagram.com/wishdo.agency/)
 * In 2019 Member of the [International School of Feed in Odessa](http://isf.ontu.edu.ua/foto-zvit-6-sesiyi-isf-cherven-2019-r/)
