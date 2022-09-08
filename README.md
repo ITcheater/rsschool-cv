@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://ITcheater.github.io/rsschool-cv/cv
+https://ITcheater.github.io/rsschool-cv/
